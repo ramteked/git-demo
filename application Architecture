@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T11:31:32.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="s2K6Y-LyHScvzyeLhlWE" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T11:32:58.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MyhjJBGg19UiY89QIrJt" version="14.7.7" type="github">
   <diagram id="hDZmzb28_uiAw-MNrQWo" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,17 +19,17 @@
         <mxCell id="cM8PoOcr-h9oZkoAxhIQ-9" value="mf-hook.js&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="500" y="180" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM8PoOcr-h9oZkoAxhIQ-10" value="auth-webui-admin MF(jar)" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="445" y="240" width="200" height="140" as="geometry" />
+        <mxCell id="cM8PoOcr-h9oZkoAxhIQ-10" value="auth-webui-operations MF(jar)" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="235" width="220" height="145" as="geometry" />
         </mxCell>
         <mxCell id="cM8PoOcr-h9oZkoAxhIQ-11" value="React UI Screens" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="480" y="270" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cM8PoOcr-h9oZkoAxhIQ-12" value="API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="485" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="485" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cM8PoOcr-h9oZkoAxhIQ-13" value="mf-hook.js&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="500" y="330" width="90" height="30" as="geometry" />
+          <mxGeometry x="500" y="340" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
