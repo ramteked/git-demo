@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T06:49:19.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vhsg4Vjb8ya3hKdS1u61" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T07:30:14.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LNXlwg2uj6SID9UFHB1x" version="14.7.7" type="github">
   <diagram id="hDZmzb28_uiAw-MNrQWo" name="Page-1">
     <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="IrfOMDjPgEZArKNRBBk5-7" value="Register" style="endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#457B9D;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IrfOMDjPgEZArKNRBBk5-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="352" as="sourcePoint" />
-            <mxPoint x="330" y="360" as="targetPoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IrfOMDjPgEZArKNRBBk5-8" value="React UI Screens" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
