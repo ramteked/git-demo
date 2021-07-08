@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T06:45:50.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Nfn-w3mYHK-bfuZHtB8I" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T12:39:19.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DE_-35faWbYLqdgGyLIM" version="14.8.5" type="github">
   <diagram id="hDZmzb28_uiAw-MNrQWo" name="Page-1">
-    <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,8 +50,8 @@
         <mxCell id="cM8PoOcr-h9oZkoAxhIQ-17" value="Oracle 19c" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="750" y="150" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cM8PoOcr-h9oZkoAxhIQ-26" value="Message Broker" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="700" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="cM8PoOcr-h9oZkoAxhIQ-26" value="Crypto service message broker" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="700" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cM8PoOcr-h9oZkoAxhIQ-29" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="cM8PoOcr-h9oZkoAxhIQ-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IrfOMDjPgEZArKNRBBk5-20" value="Cress MF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="cM8PoOcr-h9oZkoAxhIQ-43" vertex="1" connectable="0">
+        <mxCell id="IrfOMDjPgEZArKNRBBk5-20" value="Cross MF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="cM8PoOcr-h9oZkoAxhIQ-43" vertex="1" connectable="0">
           <mxGeometry x="-0.3815" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ffQ41tNPkoCvtrJig8ma-1" value="Postgre" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="ffQ41tNPkoCvtrJig8ma-1" value="Postgres" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="750" y="200" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
